@@ -1,3 +1,3 @@
 # php-image-resizer
 
-A simple image resizer script in PHP.
+A simple php image uploader script.
